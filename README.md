@@ -1,4 +1,3 @@
-# deolcarsolutions
-The web technology page for the scrap car wrecker, scrap yard innovators and cash for cars business.
+# scratch
 
-https://www.deolcarsolutions.co.nz
+To be used as a playground for testing any software ideas. A separate repository can implement specific requirments.
