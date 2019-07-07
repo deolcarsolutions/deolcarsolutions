@@ -13,7 +13,7 @@ You will also see any lint errors in the console.
 
 
 
-### `npm run eject`
+### `Intended Use of sub-repo`
 
 **Drop down list for all car makes and models**
 
